@@ -1,0 +1,85 @@
+body,p {
+    background-image: url("BACKGROUD/2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+
+    color: #000000;
+    text-align: center;
+    padding: 20px;
+}
+
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+
+.cuisine {
+    border: 5px solid #000000;
+    padding: 20px;
+    text-align: center;
+    max-width: 300px;
+    border-radius: 25px;
+}
+
+
+.cuisine img {
+    max-width: 70%;
+    height: auto;
+    69%;
+    margin-bottom: 10px;
+    border-radius: 15px;
+
+
+}
+
+.cuisine h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+
+.cuisine p {
+    font-size: 1rem;
+}
+
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #000000;
+    color: rgb(239, 243, 244);
+    padding: 14px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+nav li {
+    display: inline;
+    margin: 0px;
+}
+.navi {
+
+
+    position: relative;
+    letter-spacing: 2x;
+    text-align: right;
+    text-indent: 120px;
+    padding-right: 30px;
+    padding-top: 0px;
+}

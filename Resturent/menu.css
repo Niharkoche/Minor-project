@@ -1,0 +1,27 @@
+body {
+    background-image: url("BACKGROUD/2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.menu{
+   text-align: center;
+    
+}
+.food{
+    margin-left: auto;
+    margin-right: auto;
+}
+nav li {
+    display: inline;
+    margin: 0px;
+}
+.navi {
+
+
+    position: relative;
+    letter-spacing: 2x;
+    text-align: right;
+    text-indent: 120px;
+    padding-right: 30px;
+    padding-top: 0px;
+}

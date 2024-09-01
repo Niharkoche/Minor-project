@@ -1,0 +1,79 @@
+.omega h1 {
+
+    text-align: center;
+    color: #000000;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url("BACKGROUD/2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav li {
+    display: inline;
+    margin: 0px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navi {
+
+
+    position: relative;
+    letter-spacing: 2x;
+    text-align: right;
+    text-indent: 120px;
+    padding-right: 30px;
+    padding-top: 0px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+
+}
+
+.about {
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    text-align: center;
+}
+
+.about>h2 {
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box
+}
+
+body {
+    font-family: Verdana, sans-serif;
+    margin: 0
+}
+
+.mySlides {
+    display: none
+}
+
+img {
+    vertical-align: middle;
+}
+#contact {
+    text-align: center;
+    
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+html{
+    scroll-behavior: smooth;
+}
